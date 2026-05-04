@@ -1,5 +1,10 @@
 # Gas Town
 
+> Exocortex integration note: this fork is deprecated for Exocortex use in favor
+> of Gas City. Keep this repository available as a historical/upstream-tracking
+> reference, but new Exocortex orchestration work should target
+> `/Users/yod/code/exocortex/exocortex-gascity` instead.
+
 **Multi-agent orchestration system for Claude Code, GitHub Copilot, and other AI agents with persistent work tracking**
 
 ## Overview
